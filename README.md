@@ -16,7 +16,7 @@ https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 
 
 ## TG影视资源频道
-[tgsearchers](https://t.me/s/tgsearchers) 实时更新最新影视资源(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
+[tgsearchers](https://t.me/s/tgsearchers) 实时更新最新影视资源并自动清理失效链接(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
 
 ## tgsearch服务器
 ```
